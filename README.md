@@ -1,2 +1,2 @@
 # coding-journal
-This is a repository to solve algorithms daily! Testing README!
+This is a repository to solve algorithms daily! 
