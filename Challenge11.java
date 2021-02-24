@@ -11,7 +11,8 @@ public class Solution {
 
     public static void main(String[] args) {
         int[][] arr = new int[6][6];
-
+        int row = 6;
+        int col = 6;
         for (int i = 0; i < 6; i++) { // reads in 6 rows
             String[] arrRowItems = scanner.nextLine().split(" ");
             scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
@@ -23,27 +24,21 @@ public class Solution {
             }
         }
 
-        // arr is now set with input
-        int sum = 0;
-        int temp = 0;
-        List<Integer> hourglassValues = new ArrayList<Integer>();
-        // gather the hourglass numbers for each
+        if (row < 3 || col < 3)
+            System.out.println("-1");
 
-        for (int x = 0; x < 4; x++) {
-            sum = 0;
-
-            for(int y = temp; y < temp+3; y++) {
-                System.out.println("arr[" + x + "][" + y + "]: " + arr[x][y]);
-
-                hourglassValues.add(arr[x][y]);
+        // top left cells of hour glasses.
+        int max_sum = Integer.MIN_VALUE;
+        for (int i = 0; i < row - 2; i++)
+        {
+            for (int j = 0; j < col - 2; j++)
+            {
+                int sum = (arr[i][j] + arr[i][j + 1] + arr[i][j + 2]) + (arr[i + 1][j + 1]) +
+                        (arr[i + 2][j] + arr[i + 2][j + 1] + arr[i + 2][j + 2]);
+                max_sum = Math.max(max_sum, sum);
             }
-            System.out.println("arr[" + (x+1) + "][" + (x+1) + "]: " + arr[x+1][x+1]);
-            hourglassValues.add(arr[x+1][x+1]);
-            x++;
         }
-
-        // hourglassSum
-
+        System.out.println(max_sum);
         scanner.close();
     }
 }
