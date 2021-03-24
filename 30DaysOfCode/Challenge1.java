@@ -33,3 +33,5 @@ public class Solution {
         System.out.println(s + readString);  
 
         scan.close();
+    }
+}
