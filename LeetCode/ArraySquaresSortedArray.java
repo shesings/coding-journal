@@ -1,27 +1,25 @@
-public class ArraySquaresSortedArray {
-    //import java.lang.Math;
-
+class Solution {
+    // sortedSquares: int[] --> int[]
+    // Takes the squares of all the elemtns in the
+    // array and sorts the array from least to greatest
     public int[] sortedSquares(int[] nums) {
-        // take squares of all the items in the array
-        for (int i = 0; i < nums.length-1; i++) {
+        for (int i = 0; i < nums.length; i++) {
             int square = nums[i]*nums[i];
             nums[i] = square;
-            System.out.println("nums[" + i + "] is: " + nums[i]);
         }
-        // sort array
-        for (int x = 0; x < nums.length-1; x++) {
-            // find smallest number and set it to the index we are currently at
-            int smallestNum = 10000;
-            for(int y = 0; y < x; y++) {
-                // i have to do a switch once i find the smallest one
-                if(num < smallestNum){
-                    smallestNum = num;
+        for (int x = 0; x < nums.length; x++) {
+            int smallestNum = nums[x];
+            //System.out.println("set smallestNum to: " + smallestNum);
+            for(int y = x+1; y < nums.length; y++) {
+                if(smallestNum > nums[y]) {
+                    //System.out.println("current smallestNum = " + smallestNum);
+                    nums[x] = nums[y];
+                    nums[y] = smallestNum;
+                    smallestNum = nums[x];
                 }
             }
-            nums[x] = smallestNum
+           
         }
-        
         return nums;
     }
-
 }
