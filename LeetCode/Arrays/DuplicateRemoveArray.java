@@ -10,21 +10,21 @@ class Solution {
             currentNumber = nums[i];
             System.out.println("i = " + i);
             if(i==0) {
-               newNum[i] = nums[i];
+                newNum[i] = nums[i];
             }
             if(i+1 == nums.length) {
-                
+
             }
             else if(nums[i+1] != currentNumber) { // this means that next index number is a duplicate
                 newNum[i] = nums[i+1];
-            } 
+            }
             System.out.println("newNum[" + i + "] = " + newNum[i]);
         }
-        
+
         for (int z = 0; z < newNum.length; z++) {
-           nums[z] = newNum[z];
+            nums[z] = newNum[z];
         }
-        
+
         for (int n : nums) {
             System.out.println(n);
         }
