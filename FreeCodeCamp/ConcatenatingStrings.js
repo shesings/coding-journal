@@ -11,3 +11,11 @@ const myStr = "My name is " + myName + "and I am well!";
 const someAdjective = "sad";
 let myStr = "Learning to code is ";
 myStr += someAdjective;
+
+// Finding Length of a String
+// Setup
+let lastNameLength = 0;
+const lastName = "Lovelace";
+
+lastNameLength = lastName;
+lastNameLength = lastName.length;
