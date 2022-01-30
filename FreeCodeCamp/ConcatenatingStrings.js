@@ -26,3 +26,14 @@ const lastName = "Lovelace";
 firstLetterOfLastName = lastName[0]; 
 
 // Understand String Immutability
+let myStr = "Jello World";
+//myStr[0] = "H"; // this is not possible
+myStr = "Hello World"
+
+// Use Bracket Notation to Find the Nth Character in a String
+const lastName = "Lovelace";
+const thirdLetterOfLastName = lastName[2]; 
+
+// Use Bracket Notation to Find the Last Character in a String
+const lastName = "Lovelace";
+const lastLetterOfLastName = lastName[lastName.length - 1]; 
