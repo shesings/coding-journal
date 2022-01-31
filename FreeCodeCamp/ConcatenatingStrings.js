@@ -37,3 +37,15 @@ const thirdLetterOfLastName = lastName[2];
 // Use Bracket Notation to Find the Last Character in a String
 const lastName = "Lovelace";
 const lastLetterOfLastName = lastName[lastName.length - 1]; 
+
+// Word Blanks 
+const myNoun = "dog";
+const myAdjective = "big";
+const myVerb = "ran";
+const myAdverb = "quickly";
+
+// Only change code below this line
+const wordBlanks = myNoun + myAdjective + myVerb + myAdverb; // Change this line
+// Only change code above this line
+
+// TODO: fix above ^
