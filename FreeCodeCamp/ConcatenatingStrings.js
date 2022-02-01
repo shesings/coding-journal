@@ -44,8 +44,4 @@ const myAdjective = "big";
 const myVerb = "ran";
 const myAdverb = "quickly";
 
-// Only change code below this line
-const wordBlanks = myNoun + myAdjective + myVerb + myAdverb; // Change this line
-// Only change code above this line
-
-// TODO: fix above ^
+const wordBlanks = "My " + myNoun + " is " + myAdjective + " even " + myVerb + " " + myAdverb; 
