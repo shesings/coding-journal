@@ -56,4 +56,25 @@ function testSize(num) {
   testSize(7);
 
 // Golf Code:
+const names = ["Hole-in-one!", "Eagle", "Birdie", "Par", "Bogey", "Double Bogey", "Go Home!"];
 
+function golfScore(par, strokes) {
+if (strokes == 1) {
+  //return "Hole-in-one!";
+  return names[0];
+} else if (strokes <= par-2) {
+  return names[1];
+} else if (strokes == par-1) { // don't forget the double equals!
+  return names[2];
+} else if (strokes == par) {
+  return names[3];
+} else if (strokes == (par+1)) { // parathesis don't matter in this case
+  return names[4];
+} else if (strokes == (par+2)) {
+  return names[5];
+} else {
+  return names[6];
+} 
+}
+
+golfScore(5, 4);
