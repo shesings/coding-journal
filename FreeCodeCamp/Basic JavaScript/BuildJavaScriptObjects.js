@@ -72,3 +72,32 @@ delete myDog.tails;
 
 // Using Objects for Lookups
 
+function phoneticLookup(val) {
+  let result = "";
+  const lookup = {
+    "alpha":"Adams",
+    "bravo":"Boston",
+    "charlie":"Chicago",
+    "delta":"Denver",
+    "echo":"Easy",
+    "foxtrot":"Frank"
+  };
+  result = lookup[val];
+  return result;
+}
+
+phoneticLookup("charlie");
+
+// Testing Objects for Properties
+function checkObj(obj, checkProp) {
+
+  var check = obj.hasOwnProperty(checkProp);
+  if (check) {
+    return obj[checkProp];
+  } else {
+    return "Not Found";
+  }
+
+}
+
+// Manipulating Complex Objects
