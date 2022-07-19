@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/main" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="894f0922-aab9-41a5-a572-1baa03d3fe55" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1ouGUsRrdvcvipW1T5XfkfG332P" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.25632185" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/30DaysOfCode" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="894f0922-aab9-41a5-a572-1baa03d3fe55" name="Default Changelist" comment="" />
+      <created>1614129080463</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614129080463</updated>
+      <workItem from="1614129084290" duration="1287000" />
+      <workItem from="1614212054586" duration="1045000" />
+      <workItem from="1614621630966" duration="426000" />
+      <workItem from="1615232301242" duration="1306000" />
+      <workItem from="1615317062810" duration="525000" />
+      <workItem from="1615434601539" duration="1378000" />
+      <workItem from="1615518685849" duration="562000" />
+      <workItem from="1615826254966" duration="6404000" />
+      <workItem from="1616102892277" duration="378000" />
+      <workItem from="1616265387790" duration="4669000" />
+      <workItem from="1616612121976" duration="607000" />
+      <workItem from="1616612796764" duration="31000" />
+      <workItem from="1616612891815" duration="60000" />
+      <workItem from="1616612966491" duration="1745000" />
+      <workItem from="1616615964903" duration="280000" />
+      <workItem from="1616616281556" duration="3742000" />
+      <workItem from="1623884763112" duration="98000" />
+      <workItem from="1623884927894" duration="774000" />
+      <workItem from="1623885914810" duration="994000" />
+      <workItem from="1624485807783" duration="1498000" />
+      <workItem from="1626055603191" duration="740000" />
+      <workItem from="1626056391359" duration="566000" />
+      <workItem from="1638417643883" duration="4054000" />
+      <workItem from="1639084215172" duration="146000" />
+      <workItem from="1642533167037" duration="770000" />
+      <workItem from="1642537863305" duration="1255000" />
+      <workItem from="1647468017913" duration="150000" />
+      <workItem from="1647468233526" duration="2103000" />
+      <workItem from="1647545961333" duration="1282000" />
+      <workItem from="1654641187644" duration="2207000" />
+    </task>
+    <task id="LOCAL-00001" summary="Challenge11">
+      <created>1614135264490</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614135264490</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Challenge11">
+      <created>1614136201191</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1614136201191</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Challenges Completed">
+      <created>1615923762357</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1615923762357</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Challenge 20">
+      <created>1615950643885</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1615950643885</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Challenge 21">
+      <created>1615951596616</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1615951596616</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Challenge 22">
+      <created>1616272224189</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1616272224189</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Challenge 23">
+      <created>1616276885805</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1616276885805</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Challenge 24">
+      <created>1616290083415</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1616290083415</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Challenge 23">
+      <created>1616290098340</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1616290098340</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Challenge 25">
+      <created>1616291803373</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1616291803373</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Challenge 26">
+      <created>1616296614019</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1616296614019</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Arrays Intro">
+      <created>1616977869259</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1616977869259</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Array Squares Sorted Array">
+      <created>1616979910387</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1616979910387</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Array Duplicate Zeros">
+      <created>1616986166335</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1616986166335</updated>
+    </task>
+    <task id="LOCAL-00015" summary="December 1">
+      <created>1638420216500</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1638420216500</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Array Duplicate Zeros">
+      <created>1638420315378</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1638420315378</updated>
+    </task>
+    <task id="LOCAL-00017" summary="JavaMap">
+      <created>1638494861974</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1638494861974</updated>
+    </task>
+    <task id="LOCAL-00018" summary="ValidPhoneNumber">
+      <created>1638499056085</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1638499056085</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Two Sums Easy Problem">
+      <created>1647549562024</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1647549562024</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Current Roman to Integer">
+      <created>1647551502879</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1647551502879</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Median of Two Sorted Arrays">
+      <created>1654641356560</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1654641356560</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Find First and Last Position">
+      <created>1654645375791</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1654645375791</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Challenge11" />
+    <MESSAGE value="Challenges Completed" />
+    <MESSAGE value="Challenge 20" />
+    <MESSAGE value="Challenge 21" />
+    <MESSAGE value="Challenge 22" />
+    <MESSAGE value="Challenge 24" />
+    <MESSAGE value="Challenge 23" />
+    <MESSAGE value="Challenge 25" />
+    <MESSAGE value="Challenge 26" />
+    <MESSAGE value="Arrays Intro" />
+    <MESSAGE value="Array Squares Sorted Array" />
+    <MESSAGE value="December 1" />
+    <MESSAGE value="Array Duplicate Zeros" />
+    <MESSAGE value="JavaMap" />
+    <MESSAGE value="ValidPhoneNumber" />
+    <MESSAGE value="Two Sums Easy Problem" />
+    <MESSAGE value="Current Roman to Integer" />
+    <MESSAGE value="Median of Two Sorted Arrays" />
+    <MESSAGE value="Find First and Last Position" />
+    <option name="LAST_COMMIT_MESSAGE" value="Find First and Last Position" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
